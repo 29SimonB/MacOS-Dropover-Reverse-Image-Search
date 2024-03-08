@@ -5,5 +5,5 @@ You can add it as [Custom Script](https://dropoverapp.com/kb/application-scripts
 
 ## What does it do?
 1. It takes the file path of the inputted image.
-2. The image is then uploaded to [tmpfiles.org](tmpfiles.org) to generate a temporary url.
+2. The image is then uploaded to [tmpfiles](tmpfiles.org) to generate a temporary url.
 3. This temporary url is used to search for the image with Google Lens.
