@@ -1,4 +1,10 @@
-# MacOS-Dropover-Reverse-Image-Search-Script
-This project is an "Reverse Image Searcher" to work with the mac app Dropover.
+# MacOS-Dropover-Reverse-Image-Search
+This project functions as a "Reverse Image Searcher" to work with the macOS app Dropover by [Damir Tursunovic](https://damir.me/).
 
-You can import it as "Custom Script". It functions as "Reverse Image Searcher". To do so it takes the file path of the image input file and uploads the file to a website to generate a temporary url. This url is used to search with Google Lens.
+You can import it as "Custom Script" to Dropover.
+
+## What does it do?
+1. It takes the file path of the inputted image.
+2. The image is then uploaded to a website to generate a temporary url.
+3. This temporary url is used to search for the image with Google Lens.
+
