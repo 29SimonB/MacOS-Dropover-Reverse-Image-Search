@@ -7,3 +7,4 @@ You can add it as [Custom Script](https://dropoverapp.com/kb/application-scripts
 1. It takes the file path of the inputted image.
 2. The image is then uploaded to [tmpfiles](https://tmpfiles.org) to generate a temporary url.
 3. This temporary url is used to search for the image with Google Lens.
+4. Then the results are displayed in a Safari tab.
